@@ -1,0 +1,21 @@
+{
+  "name": "javac_by",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JavaBy/JavaBy.github.io.git"
+  },
+  "author": "Ibragimov Ruslan",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/JavaBy/JavaBy.github.io/issues"
+  },
+  "devDependencies": {
+    "bower": "~1.4.1"
+  }
+}
