@@ -1,21 +1,56 @@
 {
-  "name": "javac_by",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.html",
+  "name": "JavaProfessionalsBY",
+  "version": "0.0.1",
+  "description": "Home page of Java Professional By Community",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server",
+    "build": "rm -rf dest && webpack",
+    "validate": "eslint ."
+  },
+  "keywords": [
+    "java",
+    "kotlin",
+    "scala",
+    "groovy",
+    "belarus",
+    "community"
+  ],
+  "author": {
+    "name": "Ibragimov Ruslan",
+    "email": "r.ibragimov@itx.by"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JavaBy/JavaBy.github.io.git"
+    "url": "git@github.com:JavaBy/JavaBy.github.io.git"
   },
-  "author": "Ibragimov Ruslan",
-  "license": "GNU GPLv3",
-  "bugs": {
-    "url": "https://github.com/JavaBy/JavaBy.github.io/issues"
-  },
+  "license": "GPL-3.0",
   "devDependencies": {
-    "bower": "~1.4.1"
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.15.6",
+    "eslint": "^1.7.1",
+    "eslint-loader": "^1.1.0",
+    "exports-loader": "^0.6.2",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",
+    "html-webpack-plugin": "^1.6.0",
+    "imports-loader": "^0.6.4",
+    "less": "^2.2.1",
+    "less-loader": "^2.2.1",
+    "merge-stream": "^0.1.8",
+    "ng-cache-loader": "0.0.9",
+    "null-loader": "^0.1.1",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.5",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "angular": "^1.4.6",
+    "angular-animate": "^1.4.6",
+    "angular-aria": "^1.4.6",
+    "angular-material": "^0.11.4",
+    "angular-ui-router": "^0.2.15"
   }
 }
