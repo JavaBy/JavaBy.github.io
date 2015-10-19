@@ -1,0 +1,13 @@
+{
+  "name": "javac_by",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JavaBy/JavaBy.github.io",
+  "authors": [
+    "Ruslan Ibragimov <theliveperson@gmail.com>"
+  ],
+  "license": "GNU GPLv3",
+  "private": true,
+  "dependencies": {
+    "angular-material": "~0.10.0"
+  }
+}
