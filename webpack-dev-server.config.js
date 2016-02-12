@@ -2,7 +2,7 @@ const webpack = require('webpack');
 const path = require('path');
 const buildPath = path.resolve(__dirname, 'build');
 const nodeModulesPath = path.resolve(__dirname, 'node_modules');
-const TransferWebpackPlugin = require('transfer-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const config = {
     entry: [
@@ -28,10 +28,10 @@ const config = {
     },
     plugins: [
         new webpack.HotModuleReplacementPlugin(),
-        //new webpack.NoErrorsPlugin(),
-        new TransferWebpackPlugin([
-            {from: 'www'}
-        ], path.resolve(__dirname, 'src'))
+        new HtmlWebpackPlugin({
+            template: path.resolve('src', 'index.html'),
+            inject: 'body'
+        })
     ],
     module: {
         preLoaders: [{
