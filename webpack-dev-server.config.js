@@ -19,8 +19,7 @@ const config = {
         devtool: 'eval',
         hot: true,
         inline: true,
-        port: 3000
-    },
+        port: 3031    },
     devtool: 'eval-source-map',
     output: {
         path: buildPath,
@@ -36,7 +35,7 @@ const config = {
     module: {
         preLoaders: [{
             test: /\.(js|jsx)$/,
-            loader: 'eslint-loader',
+            loader: 'eslint',
             include: [path.resolve(__dirname, 'src/app')],
             exclude: [nodeModulesPath]
         }],
@@ -44,6 +43,9 @@ const config = {
             test: /\.(js|jsx)$/,
             loaders: ['react-hot', 'babel'],
             exclude: [nodeModulesPath]
+        }, {
+            test: /\.css$/,
+            loaders: ['style', 'css']
         }]
     },
     eslint: {

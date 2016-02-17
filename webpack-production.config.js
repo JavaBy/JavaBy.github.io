@@ -30,7 +30,7 @@ const config = {
     module: {
         preLoaders: [{
             test: /\.(js|jsx)$/,
-            loader: 'eslint-loader',
+            loader: 'eslint',
             include: [path.resolve(__dirname, 'src/app')],
             exclude: [nodeModulesPath]
         }],
@@ -38,6 +38,9 @@ const config = {
             test: /\.(js|jsx)$/,
             loaders: ['babel'],
             exclude: [nodeModulesPath]
+        }, {
+            test: /\.css$/,
+            loaders: ['style', 'css']
         }]
     },
     eslint: {
