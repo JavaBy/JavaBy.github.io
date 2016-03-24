@@ -1,10 +1,5 @@
-# Java Professionals Belarus Community
+# Java Professionals Belarus community
 
-```sh
-npm install
-npm start
-```
+Application is built using [Jekyll][jekyll-link]
 
-UI Framework:
-
-http://www.material-ui.com/#/components/app-bar
+[jekyll-link]: https://jekyllrb.com/

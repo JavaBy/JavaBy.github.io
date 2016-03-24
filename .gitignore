@@ -1,9 +1,5 @@
-build
+_site
+.sass-cache
+.jekyll-metadata
 
-node_modules
-*.log
-
-*.iml
-.idea/
-*.ipr
-*.iws
+vendor
