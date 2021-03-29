@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voxxeddays on Java Professionals BY</title>
+    <link>https://jprof.by/tags/voxxeddays/</link>
+    <description>Recent content in Voxxeddays on Java Professionals BY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Sat, 26 May 2018 10:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://jprof.by/tags/voxxeddays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Сообщество Java Professionals на VoxxedDays Minsk</title>
+      <link>https://jprof.by/post/voxxeddaysminsk/</link>
+      <pubDate>Sat, 26 May 2018 10:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/post/voxxeddaysminsk/</guid>
+      <description>Друзья, сообщество Java Professionals BY и Belarus Kotlin User Group уже на конференции VoxxedDays Minsk. Мы подготовили для вас конкурсы с тамадой! Подходите знакомиться, участвуйте в конкурсах и выигрывайте!
+И мы обсуждаем конференцию в Telegram чате. Присоединяйтесь!
+   </description>
+    </item>
+    
+  </channel>
+</rss>
