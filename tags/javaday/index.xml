@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javaday on Java Professionals BY</title>
+    <title>javaday on Java Professionals BY</title>
     <link>https://jprof.by/tags/javaday/</link>
-    <description>Recent content in Javaday on Java Professionals BY</description>
+    <description>Recent content in javaday on Java Professionals BY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 19 May 2017 12:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://jprof.by/tags/javaday/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 May 2017 12:00:00 +0300</lastBuildDate><atom:link href="https://jprof.by/tags/javaday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Приглашаем на конференцию JavaDay Minsk 2017</title>
       <link>https://jprof.by/post/javaday2017_anons/</link>
@@ -18,28 +14,14 @@
       
       <guid>https://jprof.by/post/javaday2017_anons/</guid>
       <description>&lt;p&gt;Товарищи, &lt;strong&gt;3 июня&lt;/strong&gt; пройдет 6-я международная конференция &lt;a href=&#34;http://javaday.by&#34;&gt;JavaDay Minsk 2017&lt;/a&gt;!&lt;/p&gt;
-
 &lt;p&gt;Сообщество &lt;strong&gt;Java Professionals BY&lt;/strong&gt; активно принимает участие в организации этого мероприятия и будет радовать вас на
 самой конференции!&lt;/p&gt;
-
 &lt;p&gt;В плотной программе будут доклады от звёзд индустрии про Microservices, Spring Boot, JWT, DevOps &amp;amp; Containers, Scala,
 Kotlin, и даже Go!&lt;/p&gt;
-
 &lt;p&gt;Открывать конференцию будет &lt;a href=&#34;http://yegor256.com&#34;&gt;Yegor Bugayenko&lt;/a&gt; с докладом про ООП в юнит тестах. А это значит, градус конференции будет высоким с самого начала.&lt;/p&gt;
-
 &lt;p&gt;Так что спешите приобрести билеты, ведь специально для вас у нас есть и &lt;strong&gt;промокод на скидку&lt;/strong&gt; (ищите его в конце этого поста)!&lt;/p&gt;
-
-
-&lt;div class=&#34;pure-u-1-2&#34;&gt;
-  &lt;a href=&#34;https://jprof.by/img/post/javadayby.png&#34;&gt;
-    &lt;img class=&#34;pure-img&#34; src=&#34;https://jprof.by/img/post/javadayby.png&#34; &gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;А кто ещё будет выступать, читайте ниже ↓↓↓&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;А кто ещё будет выступать, читайте ниже ↓↓↓&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jet on Java Professionals BY</title>
@@ -6,20 +6,14 @@
     <description>Recent content in Jet on Java Professionals BY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sun, 20 Nov 2016 12:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://jprof.by/tags/jet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 20 Nov 2016 12:00:00 +0300</lastBuildDate><atom:link href="https://jprof.by/tags/jet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Professionals BY на Jet conference!</title>
       <link>https://jprof.by/post/161120-001/</link>
       <pubDate>Sun, 20 Nov 2016 12:00:00 +0300</pubDate>
       
       <guid>https://jprof.by/post/161120-001/</guid>
-      <description>&lt;p&gt;Вот и подошла к концу очередная &lt;a href=&#34;http://jetconf.by/&#34;&gt;конференция JET&lt;/a&gt;, надеемся, что не последняя :) Все прошло просто отлично - порадовали и доклады, и расписание, и проведение перерывов. Организаторы предоставили нам возможность разместить наш стенд, что из этого вышло - под катом.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Вот и подошла к концу очередная &lt;a href=&#34;http://jetconf.by/&#34;&gt;конференция JET&lt;/a&gt;, надеемся, что не последняя :) Все прошло просто отлично - порадовали и доклады, и расписание, и проведение перерывов. Организаторы предоставили нам возможность разместить наш стенд, что из этого вышло - под катом.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,10 +23,7 @@
       
       <guid>https://jprof.by/post/160829-001/</guid>
       <description>&lt;p&gt;Друзья! Все на борт!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Объявляется посадка на следующий &lt;a href=&#34;https://www.facebook.com/hashtag/jetconf?source=feed_text&amp;amp;story_id=875215422611439&#34;&gt;#jetconf&lt;/a&gt;, 18-19 ноября!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Объявляется посадка на следующий &lt;a href=&#34;https://www.facebook.com/hashtag/jetconf?source=feed_text&amp;amp;story_id=875215422611439&#34;&gt;#jetconf&lt;/a&gt;, 18-19 ноября!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

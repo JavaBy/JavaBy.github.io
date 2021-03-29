@@ -10,7 +10,7 @@
   <meta name="google-site-verification" content="lzFMK9UnNPkqFF7WANFiCuZRwgPhb_bHBH2WWIyc-r4" />
   
 
-  <meta name="generator" content="Hugo 0.21" />
+  <meta name="generator" content="Hugo 0.82.0" />
 
   <title>Java Professionals Meetup #18 ∆ 22/02/2018 19:00@SPACE &middot; Java Professionals BY</title>
 
@@ -213,54 +213,38 @@
 На этот раз мы решили подготовить нечто особенное - позвать зарубежного докладчика. В коллаборации с JUG Warsaw мы пригласили варшавского активиста Kamil поделиться опытом построения реактивных бекенд систем.
 Kamil активный спикер - выступал на конференции Spring I/O, а также встречах JUG Warsaw.
 Как помните, Артём тоже эксперт в <a href="https://www.youtube.com/watch?v=XdO-VhUHb1M">реактивных системах</a>, но на этот раз сделает доклад по другой теме - практические заметки про использование Docker.</p>
-
 <p>Приходите к нам в <a href="http://eventspace.by">SPACE</a> (ул. Октябрьская 16А) <strong>22-го февраля, в 19:00</strong>.
 Программа митапа ниже, но самое важное — это <a href="http://bit.ly/jprof_reg_18">зарегистрироваться</a> на него!</p>
-
-<p></p>
-
 <h2 id="программа-митапа">Программа митапа</h2>
-
 <ul>
 <li><em>18:45</em> – <em>19:00</em> Знакомство и приветственный кофе;</li>
 <li><em>19:00</em> – <em>19:40</em> <strong>Артём Синицын: &ldquo;Docker for Java Developers&rdquo;</strong>;</li>
 <li>Кофе-пауза</li>
-<li><em>19:50</em> – <em>20:40</em> <strong>Kamil Szymański: &ldquo;Reactive Web Services [EN]&rdquo;</strong>;</li>
+<li><em>19:50</em> – <em>20:40</em> <strong>Kamil Szymański: &ldquo;Reactive Web Services [EN]&quot;</strong>;</li>
 <li><em>20:40</em> – <em>21:00</em> Hетворкинг;</li>
 </ul>
-
 <h2 id="докладчики">Докладчики</h2>
-
 <h3 id="артём-синицын-docker-for-java-developers">Артём Синицын &ldquo;Docker for Java Developers&rdquo;</h3>
-
 <p>Берём докер как огромное и расширяющееся пространство. Рассекаем его плоскостью применимости непосредственно в девелопменте,
 то есть игнорируем всякие опсовые, инфраструктурные и фундаментальные аспекты.
 Потом рассекаем плоскостью моего личного опыта и получаем прямую в пересечении плоскостей. Эта прямая и будет нитью повествования.</p>
-
 <p>Простым языком, покроем следующие темы:</p>
-
 <ul>
 <li>Управление пакетами (зависимостями), т.е. поднятие компонентов необходимых для девелопмента;</li>
 <li>Используя docker-compose добавляем к зависимостям непосредсвенно наше приложение и получаем полноценный исполняемый quick start guide;</li>
 <li>Создание собственных контейнеров;</li>
 <li>Рассмотрим тестирование контейнеров, а также тонкости использования Docker именно с Java.</li>
 </ul>
-
-<h3 id="kamil-szymański-reactive-web-services">Kamil Szymański &ldquo;Reactive Web Services&rdquo;</h3>
-
-<p>Ahh, reactive, probably the buzzword of 2017, newer and shinier than good ol&rsquo; microservices,
+<h3 id="kamilszymański-reactive-web-services">Kamil Szymański &ldquo;Reactive Web Services&rdquo;</h3>
+<p>Ahh, reactive, probably the buzzword of 2017, newer and shinier than good ol' microservices,
 all asynchronous, non-blocking and I&rsquo;ve even heard some event-driven buzz around it.
 During this live-coding session we won&rsquo;t focus on the shiny nor on saving the world with dataflows using composable operators.
 Instead we&rsquo;ll focus on how the execution of this reactive approach differs from
 &lsquo;classic imperative approaches&rsquo; and check how it impacts resource consumption.
 We&rsquo;ll also see backpressure in action, cover the topic of data serialization and talk about event loops.</p>
-
 <p>Kamil is a software developer, JVM &amp; open-source enthusiast, develops D2C investment platform @ Pragmatic Coders</p>
-
 <h2 id="партнеры">Партнеры</h2>
-
 <p>Митап пройдет при поддержке компаний <a href="http://apalon.com">Apalon</a>, <a href="http://intetics.com">Intetics</a> и <a href="http://www.issoft.by">ISsoft</a>!</p>
-
 
 
 <div class="pure-g">
@@ -369,18 +353,27 @@ We&rsquo;ll also see backpressure in action, cover the topic of data serializati
 <script src="https://jprof.by/js/ui.js"></script>
 <script src="https://jprof.by/js/FileSaver.min.js"></script>
 <script src="https://jprof.by/js/ics.js"></script>
+<script src="https://jprof.by/js/menus.js"></script>
+
+
 
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  if (window.location.hostname != "localhost") {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-86356104-1', 'auto');
-  ga('send', 'pageview');
-
+    ga('create', 'UA-86356104-1', 'auto');
+    ga('send', 'pageview');
+  }
 </script>
+
+
+
+
 
 
 

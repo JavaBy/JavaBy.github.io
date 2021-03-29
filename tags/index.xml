@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Java Professionals BY</title>
@@ -6,71 +6,13 @@
     <description>Recent content in Tags on Java Professionals BY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sat, 11 Apr 2020 20:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://jprof.by/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Mar 2021 09:00:00 +0300</lastBuildDate><atom:link href="https://jprof.by/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hackathon</title>
-      <link>https://jprof.by/tags/hackathon/</link>
-      <pubDate>Sat, 11 Apr 2020 20:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/hackathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javaday</title>
-      <link>https://jprof.by/tags/javaday/</link>
-      <pubDate>Fri, 19 May 2017 12:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/javaday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jet</title>
-      <link>https://jprof.by/tags/jet/</link>
-      <pubDate>Sun, 20 Nov 2016 12:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/jet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meetup</title>
+      <title>meetup</title>
       <link>https://jprof.by/tags/meetup/</link>
       <pubDate>Fri, 26 Mar 2021 09:00:00 +0300</pubDate>
       
       <guid>https://jprof.by/tags/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pub Quiz</title>
-      <link>https://jprof.by/tags/pub-quiz/</link>
-      <pubDate>Thu, 10 Oct 2019 09:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/pub-quiz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shashlik  Wine</title>
-      <link>https://jprof.by/tags/shashlik--wine/</link>
-      <pubDate>Fri, 09 Jun 2017 22:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/shashlik--wine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voxxeddays</title>
-      <link>https://jprof.by/tags/voxxeddays/</link>
-      <pubDate>Sat, 26 May 2018 10:00:00 +0300</pubDate>
-      
-      <guid>https://jprof.by/tags/voxxeddays/</guid>
       <description></description>
     </item>
     
@@ -84,7 +26,16 @@
     </item>
     
     <item>
-      <title>Запись Докладов</title>
+      <title>hackathon</title>
+      <link>https://jprof.by/tags/hackathon/</link>
+      <pubDate>Sat, 11 Apr 2020 20:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Запись докладов</title>
       <link>https://jprof.by/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/</link>
       <pubDate>Mon, 02 Mar 2020 09:00:00 +0300</pubDate>
       
@@ -93,20 +44,20 @@
     </item>
     
     <item>
-      <title>Инфопартнеры</title>
-      <link>https://jprof.by/tags/%D0%B8%D0%BD%D1%84%D0%BE%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%8B/</link>
-      <pubDate>Sat, 08 Oct 2016 12:00:00 +0300</pubDate>
+      <title>Фотоотчеты</title>
+      <link>https://jprof.by/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</link>
+      <pubDate>Mon, 23 Dec 2019 09:00:00 +0300</pubDate>
       
-      <guid>https://jprof.by/tags/%D0%B8%D0%BD%D1%84%D0%BE%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%8B/</guid>
+      <guid>https://jprof.by/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Конференция</title>
-      <link>https://jprof.by/tags/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</link>
-      <pubDate>Sat, 26 May 2018 10:00:00 +0300</pubDate>
+      <title>Pub Quiz</title>
+      <link>https://jprof.by/tags/pub-quiz/</link>
+      <pubDate>Thu, 10 Oct 2019 09:00:00 +0300</pubDate>
       
-      <guid>https://jprof.by/tags/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</guid>
+      <guid>https://jprof.by/tags/pub-quiz/</guid>
       <description></description>
     </item>
     
@@ -120,11 +71,56 @@
     </item>
     
     <item>
-      <title>Партнёры</title>
+      <title>voxxeddays</title>
+      <link>https://jprof.by/tags/voxxeddays/</link>
+      <pubDate>Sat, 26 May 2018 10:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/voxxeddays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>конференция</title>
+      <link>https://jprof.by/tags/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 26 May 2018 10:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shashlik &amp; Wine</title>
+      <link>https://jprof.by/tags/shashlik-wine/</link>
+      <pubDate>Fri, 09 Jun 2017 22:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/shashlik-wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javaday</title>
+      <link>https://jprof.by/tags/javaday/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/javaday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>партнёры</title>
       <link>https://jprof.by/tags/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80%D1%8B/</link>
       <pubDate>Fri, 19 May 2017 12:00:00 +0300</pubDate>
       
       <guid>https://jprof.by/tags/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80%D1%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jet</title>
+      <link>https://jprof.by/tags/jet/</link>
+      <pubDate>Sun, 20 Nov 2016 12:00:00 +0300</pubDate>
+      
+      <guid>https://jprof.by/tags/jet/</guid>
       <description></description>
     </item>
     
@@ -138,11 +134,11 @@
     </item>
     
     <item>
-      <title>Фотоотчеты</title>
-      <link>https://jprof.by/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</link>
-      <pubDate>Mon, 23 Dec 2019 09:00:00 +0300</pubDate>
+      <title>Инфопартнеры</title>
+      <link>https://jprof.by/tags/%D0%B8%D0%BD%D1%84%D0%BE%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%8B/</link>
+      <pubDate>Sat, 08 Oct 2016 12:00:00 +0300</pubDate>
       
-      <guid>https://jprof.by/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</guid>
+      <guid>https://jprof.by/tags/%D0%B8%D0%BD%D1%84%D0%BE%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D1%8B/</guid>
       <description></description>
     </item>
     

@@ -10,7 +10,7 @@
   <meta name="google-site-verification" content="lzFMK9UnNPkqFF7WANFiCuZRwgPhb_bHBH2WWIyc-r4" />
   
 
-  <meta name="generator" content="Hugo 0.21" />
+  <meta name="generator" content="Hugo 0.82.0" />
 
   <title>Java Professionals Meetup #21 ∆ 14/12/2018 19:00@SPACE &middot; Java Professionals BY</title>
 
@@ -212,13 +212,8 @@
   <p>Сообщество Джава Профессионалов так взволнованно приходом зимы и наступающими праздниками, что хочет порадовать и вас теплой встречей в формате митапа!
 Поговорим про ребят, которые называют себя SRE и послушаем истории от Графа Кью Эль.
 Собираемся в уютном <a href="http://eventspace.by">SPACE</a> 14 декабря. Они нам по секрету передали, что очень соскучились по “тем милым джавистам”.</p>
-
 <p>Так повелось, что мы используем гугл форму для регистрации, и этот раз не исключение. Хочешь к нам прийти? Тогда жми <a href="https://bit.ly/jprof_reg_21">зарегистрироваться</a></p>
-
-<p></p>
-
 <h2 id="программа-митапа">Программа митапа</h2>
-
 <ul>
 <li><em>18:45</em> – <em>19:00</em> Знакомство и приветственный кофе;</li>
 <li><em>19:00</em> – <em>19:40</em> <strong>Евгений Шелестович: &ldquo;Site Reliability Engineering – надежность сервисов любой ценой&rdquo;</strong> ;</li>
@@ -226,26 +221,16 @@
 <li><em>19:50</em> – <em>20:40</em> <strong>Юрий Вощило: &ldquo;История про Графа Кью Эль и его общение с сервисами&rdquo;</strong> ;</li>
 <li><em>20:40</em> – <em>21:00</em> Время пообщаться и обсудить последние новости;</li>
 </ul>
-
 <h2 id="докладчики">Докладчики</h2>
-
 <h3 id="евгений-шелестович-engineering-manager-в-компании-fitbit">Евгений Шелестович, Engineering Manager в компании Fitbit</h3>
-
-<p>SRE – Site Reliability Engineering – это инженерная профессия, которая ставит своей целью обеспечение надежности работы систем. Это особая дисциплина и организация рабочих процессов, при помощи которой такие крупные компании, как Google, Netflix, Twitter обеспечивает гладкую и бесперебойную работу своих колоссальных систем по всей планете в режиме <sup>24</sup>&frasl;<sub>7</sub>.
+<p>SRE – Site Reliability Engineering – это инженерная профессия, которая ставит своей целью обеспечение надежности работы систем. Это особая дисциплина и организация рабочих процессов, при помощи которой такие крупные компании, как Google, Netflix, Twitter обеспечивает гладкую и бесперебойную работу своих колоссальных систем по всей планете в режиме 24/7.
 В докладе мы попытаемся понять, почему возникла необходимость в такой дисциплине и как же тестировать надежность приложений и сервисов.</p>
-
 <p>Евгений около 15 лет в software engineering. Последние 4 года в Fitbit занимается построением и развитием продуктовых и платформенных команд, а также направлений DevOps &amp; SRE как Engineering Manager.</p>
-
 <h3 id="юрий-вощило-id-finance">Юрий Вощило, ID Finance</h3>
-
 <p>Расскажу про историю и эволюцию транспортного уровня для микросервисов, который мы прошли в компании. Разберу и поднесу на тарелочке наиболее популярные способы общения между ними. И конечно же, расскажу про минусы у каждого.</p>
-
 <p>Выступление будет полезно разработчикам, которые пишут REST сервисы и сталкивались с проблемами настройки грамотной коммуникации между ними. А также и тем, кто ещё помнит SOAP и хочет попробовать что-то новое.</p>
-
 <h2 id="партнеры">Партнеры</h2>
-
 <p>Митап пройдет при поддержке компаний <a href="http://intetics.com">Intetics</a>, <a href="http://www.issoft.by">ISsoft</a>, <a href="https://www.apalon.com/">Apalon</a> и <a href="http://twistellar.com/">Twistellar</a></p>
-
 
 
 <div class="pure-g">
@@ -368,18 +353,27 @@
 <script src="https://jprof.by/js/ui.js"></script>
 <script src="https://jprof.by/js/FileSaver.min.js"></script>
 <script src="https://jprof.by/js/ics.js"></script>
+<script src="https://jprof.by/js/menus.js"></script>
+
+
 
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  if (window.location.hostname != "localhost") {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-86356104-1', 'auto');
-  ga('send', 'pageview');
-
+    ga('create', 'UA-86356104-1', 'auto');
+    ga('send', 'pageview');
+  }
 </script>
+
+
+
+
 
 
 
