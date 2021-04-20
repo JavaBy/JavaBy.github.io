@@ -15,7 +15,8 @@
       <guid>https://jprof.by/post/otchet-meetup-31/</guid>
       <description>&lt;p&gt;Открыли сезон в такое непростое время! Митап прошёл в онлайн и офлайн формате, были рады увидеть и услышать друг друга.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.facebook.com/media/set/?vanity=javaprofessionalsby&amp;amp;set=a.3214305238673052&#34;&gt;Ищите себя на фото и ставьте лайки!&lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style=&#34;color: #97312f; font-size: 1.5em&#34;&gt;UPD: К сожалению, Белорусское государство закрывает главный стартап-хаб 
+страны – &lt;b&gt;Imaguru&lt;/b&gt;. Больше информация и как выразить поддержку – &lt;a href=&#34;https://help.imaguru.by/&#34;&gt;по ссылке&lt;/a&gt;&gt;&lt;/div&gt;
 &lt;p&gt;Запись и фото митапа ↓↓↓&lt;/p&gt;</description>
     </item>
     
@@ -28,7 +29,11 @@
       <description>&lt;p&gt;Привет, дорогие! Весна пришла, JPROF оживает и приглашает принять участие в митапе.
 Встретимся уже скоро, 15 апреля в 19:00, на новом(или старом?) месте и классном IMAGURU, в офлайн и онлайн формате.&lt;/p&gt;
 &lt;p&gt;И самое главное – &lt;a href=&#34;https://forms.gle/qrPYiiTTAFJeXeBw9&#34;&gt;регистрируемся&lt;/a&gt;, добавляем себе событие в календарь и приходим!&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;div class=&#34;pure-u-1-1&#34;&gt;
+  &lt;a href=&#34;https://jprof.by/img/meetup31/FB_event_cover.jpg&#34;&gt;
+    &lt;img class=&#34;pure-img&#34; src=&#34;https://jprof.by/img/meetup31/FB_event_cover.jpg&#34; &gt;
+  &lt;/a&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -138,9 +143,13 @@
 &lt;li&gt;веселье и много общения&lt;/li&gt;
 &lt;li&gt;призы победителям и вкусные напитки всем!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;div class=&#34;post_photos&#34;&gt;
+&lt;div class=&#34;pure-u-1-1&#34;&gt;
+  &lt;a href=&#34;https://jprof.by/img/pub_quiz/pub_quiz_anons.png&#34;&gt;
+    &lt;img class=&#34;pure-img&#34; src=&#34;https://jprof.by/img/pub_quiz/pub_quiz_anons.png&#34; &gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -347,7 +356,8 @@
       
       <guid>https://jprof.by/post/voxxeddaysminsk/</guid>
       <description>Друзья, сообщество Java Professionals BY и Belarus Kotlin User Group уже на конференции VoxxedDays Minsk. Мы подготовили для вас конкурсы с тамадой! Подходите знакомиться, участвуйте в конкурсах и выигрывайте!
-И мы обсуждаем конференцию в Telegram чате. Присоединяйтесь!</description>
+И мы обсуждаем конференцию в Telegram чате. Присоединяйтесь!
+   </description>
     </item>
     
     <item>
@@ -460,7 +470,7 @@ Kamil активный спикер - выступал на конференци
       <guid>https://jprof.by/post/devzen-jprof-1/</guid>
       <description>&lt;p&gt;Мы сделали встречу со &lt;a href=&#34;https://twitter.com/SBozhko&#34;&gt;Светланой Божко&lt;/a&gt; из &lt;a href=&#34;http://devzen.ru&#34;&gt;Devzen&lt;/a&gt;.
 Расспросили Свету на предмет работы в Лондонских стартапах, задав каверзные вопросы и узнав подробности о жизни в сердце Туманного Альбиона.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330150534&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Спасибо всем, кто пришел, мы были рады вас видеть!
 А для тех, кто не попал на митап — под катом немного фотографий.&lt;/p&gt;
 &lt;p&gt;Оставьте Ваше мнение о встрече, заполните, пожалуйста, &lt;a href=&#34;http://bit.ly/devzen_jprof_resp_1&#34;&gt;фидбек-форму&lt;/a&gt;.&lt;/p&gt;</description>
@@ -534,7 +544,11 @@ Kamil активный спикер - выступал на конференци
 Kotlin, и даже Go!&lt;/p&gt;
 &lt;p&gt;Открывать конференцию будет &lt;a href=&#34;http://yegor256.com&#34;&gt;Yegor Bugayenko&lt;/a&gt; с докладом про ООП в юнит тестах. А это значит, градус конференции будет высоким с самого начала.&lt;/p&gt;
 &lt;p&gt;Так что спешите приобрести билеты, ведь специально для вас у нас есть и &lt;strong&gt;промокод на скидку&lt;/strong&gt; (ищите его в конце этого поста)!&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;pure-u-1-2&#34;&gt;
+  &lt;a href=&#34;https://jprof.by/img/post/javadayby.png&#34;&gt;
+    &lt;img class=&#34;pure-img&#34; src=&#34;https://jprof.by/img/post/javadayby.png&#34; &gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 &lt;p&gt;А кто ещё будет выступать, читайте ниже ↓↓↓&lt;/p&gt;</description>
     </item>
     

@@ -27,9 +27,13 @@
 &lt;li&gt;веселье и много общения&lt;/li&gt;
 &lt;li&gt;призы победителям и вкусные напитки всем!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;div class=&#34;post_photos&#34;&gt;
+&lt;div class=&#34;pure-u-1-1&#34;&gt;
+  &lt;a href=&#34;https://jprof.by/img/pub_quiz/pub_quiz_anons.png&#34;&gt;
+    &lt;img class=&#34;pure-img&#34; src=&#34;https://jprof.by/img/pub_quiz/pub_quiz_anons.png&#34; &gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
