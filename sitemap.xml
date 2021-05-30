@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jprof.by/</loc>
-    <lastmod>2021-05-12T09:00:00+03:00</lastmod>
+    <lastmod>2021-05-28T09:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://jprof.by/post/</loc>
+    <lastmod>2021-05-28T09:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://jprof.by/tags/</loc>
+    <lastmod>2021-05-28T09:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://jprof.by/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/</loc>
+    <lastmod>2021-05-28T09:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://jprof.by/post/otchet-jprof-worldwide-1/</loc>
+    <lastmod>2021-05-28T09:00:00+03:00</lastmod>
   </url><url>
     <loc>https://jprof.by/post/anons-worldwide-meetup/</loc>
     <lastmod>2021-05-12T09:00:00+03:00</lastmod>
@@ -14,17 +26,8 @@
     <loc>https://jprof.by/tags/online/</loc>
     <lastmod>2021-05-12T09:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://jprof.by/post/</loc>
-    <lastmod>2021-05-12T09:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://jprof.by/tags/</loc>
-    <lastmod>2021-05-12T09:00:00+03:00</lastmod>
-  </url><url>
     <loc>https://jprof.by/tags/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81%D1%8B/</loc>
     <lastmod>2021-05-12T09:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://jprof.by/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2/</loc>
-    <lastmod>2021-04-19T09:00:00+03:00</lastmod>
   </url><url>
     <loc>https://jprof.by/post/otchet-meetup-31/</loc>
     <lastmod>2021-04-19T09:00:00+03:00</lastmod>
